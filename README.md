@@ -21,6 +21,8 @@ In addition to the practical code support, the GPT offers a step-by-step approac
 [Logic Guage](https://github.com/sourceduty/Logic_Gauge)
 <br>
 [Logic Gate Trees](https://github.com/sourceduty/Logic_Gate_Tree_Diagrams)
+<br>
+[Logic](https://github.com/sourceduty/Logic)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
