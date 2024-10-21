@@ -17,6 +17,10 @@ In addition to the practical code support, the GPT offers a step-by-step approac
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Computational Networks](https://github.com/sourceduty/Computational_Networks)
+<br>
+[Logic Guage](https://github.com/sourceduty/Logic_Gauge)
+<br>
+[Logic Gate Trees](https://github.com/sourceduty/Logic_Gate_Tree_Diagrams)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
